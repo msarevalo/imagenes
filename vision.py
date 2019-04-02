@@ -20,20 +20,20 @@ def salir():
 
 def abrefichero():
     fichero=filedialog.askopenfilename(title="Abrir Archivo", filetypes=(("Imagenes", "*.jpg"), ("Imagenes", "*.png"), ("Imagenes", "*.jpeg")))
-    print (fichero)
+    #print (fichero)
 
     client = vision.ImageAnnotatorClient()
 
     file_name = os.path.join(
     	os.path.dirname (__file__),
-    	'leon.jpg')
+    	fichero)
     with io.open (file_name,'rb') as image_file:
     	content = image_file.read()
 
     image = types.Image(content=content)
     response = client.label_detection(image=image)
     labels = response.label_annotations
-    print ("labels: ")
+    #print ("labels: ")
 
     texto=""
     for label in labels:
