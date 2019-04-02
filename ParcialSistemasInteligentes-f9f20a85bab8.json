@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "parcialsistemasinteligentes",
+  "private_key_id": "f9f20a85bab8613bd01a92c8f4b081cb600bd00b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3kwI1bnrAFwpz\nmU7MY+sKFDtxeUxECQ8JPNchsQzHM8NKiRmP7h/SErHse9GxiyqQ/S/5HkALZhZ/\nav+V21SNSPtxEz0g1jaHejxAqpFeZB8skFZVZt7tmASPitaIufezVhiVgFgdkXXx\nxYrEhtVs8xB98CARSN/0Iu0Sn2eaVkYp92hCTDwjA6Y2EMa6D5pi4+J/mCSdDeb7\n4RsRWO53IM6e307B5rBaZSFxRTX0WR7EljGsmHOU+D9ouOVIyFbanhVm2UTFAk86\nnIcs0s8COBiIYoSC/GnXBbs9ZMhULwSNtL33pmIDpWtenF6br52D+bWNM1QfIKde\nBYRg0ga3AgMBAAECggEAFZKPiGLmxusOPd5uvaMiTElrYN7dwQMFgtLk/x8UvtYM\n5ZXt7JWRpLiwsvcsAb62blpqiE5vPUeubiPPTDd9nKrObY/St6ikuM/7A6hns911\nMmH120xe9zHNm2a35lJgUvFTq0HtWPAumY5ay9SCgS6hKgONaSqUstZl4LHd1WuK\nF/sOUgGm4pD72MowkSlU+89KkhT4ekWtMm08N8b9seuN3RpTEQQ/bRf7/D6Pykhv\nd4Lelc6QD3AV1FMOTAN46qP6aC946R4yUNeb2hBq32FlCh3OJXTO2cMHiXZKpn9D\nBI2dRl6ifESTsT1leKcjezS3V2sxOA7Rh2mUX8SilQKBgQDbUFVcdHGmGvG137+e\nrGIUF7FABbmYXfZebpRE8fWf5ARIo99wNGWfDu2JAnW5EbA3Ci1yMuolvpXOt9zb\n5euPN7wh//iURHYc7xmDNKuXRwZYOQ/9L7hqehmKP+RFbdmhKwD0kvNxc8Za4l4x\nNB5kQGuxRBoML+Gtv4ADGa2avQKBgQDWSDOpaSuDXB9aqepEFHZTBBIyNhMMgzq4\nIclmSQfyaz9/02dwv6/BY/OcvxnP27jAo62ineyqz3t6VWLWrQM1OcfFwe1EiOMr\n/qEocd7BiRekxRkMJQvpNL02gicsobH+wbtaxS6QqsK6dy/6C/QTaItsI+sbDUb/\n7V0kSxS4gwKBgAkfUE2mMkv8du1fvzK0bOf1DFRjaJLj5amL4/LyNYtPCraSymp6\nY3e4QT0fsxHdoHzJmZZUc9TaFpUgpLko2SF96f9oDEjuiBMwBtmkSTbjp2noBbg8\nUelr5sAPZElXBmRjy4hgzGt9q1SAcfaN+m2lGFWpRYQYQcTeYE7AtK3pAoGAOIxf\nTdLaT9Us1RFIKGU6AJhvcN7CUigDg/oumxakyT2ySTpx7tg3OpL1BCWOW0NB01ye\ngu6oOT9993+3EK4hzZcM+ExAIDj7sm2E/BZo0awrGCmHfaP9K7LmSA865VVakr9v\ngPnOWxElSG4RtCwZYlHRkV09Oyta1ElArkY+Fp8CgYBVE/mEakVvjAYorVVBYhlq\npZASjCdhSX6Zw6prwDthMUV/Kqnp0IRujLy0nwdKVejWdPq8oql0+3TVeg7gsvsn\nHJzVdXNpRasI8luRyiXxDCt/NTXS+DbxvL6/R1Zj7JN1n1wNErkDa9DyBgEjgt8M\nH8Zk3FpVYyLzZfkS31m/WQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "parcialsi@parcialsistemasinteligentes.iam.gserviceaccount.com",
+  "client_id": "108533991560717728962",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parcialsi%40parcialsistemasinteligentes.iam.gserviceaccount.com"
+}
